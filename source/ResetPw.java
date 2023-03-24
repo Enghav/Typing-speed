@@ -1,4 +1,4 @@
-package TypingSpeed;
+package source;
 
 import java.util.Scanner;
 
