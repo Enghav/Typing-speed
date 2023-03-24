@@ -1,18 +1,24 @@
-package source;
+package File;
 
 public class ResultList {
-    public static void main(String[] args) {
+    void Display(){
         System.out.println(
             """
             Test Result:
-                Category                Score
-                WPM                     90
-                acc                     99%
-                raw                     49
-                characters              99/7/3/0
-                consistency             69%
-                time                    31s
+                Subject                 Mark
+                OOP                     70
+                IPE                     71
+                Database                68
+                Automata                56
+                Web Design              94
+                Matlab                  40
+                Theory of Information   67
+        ******************************************
+                Average                 68
             """
         );
+    }
+
+    public static void main(String[] args) {
     }
 }
