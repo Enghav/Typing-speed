@@ -6,8 +6,8 @@ public class ResultList {
             """
             Test Result:
                 Category                Score
-                WPM                     40
-                acc                     88%
+                WPM                     90
+                acc                     99%
                 raw                     49
                 characters              99/7/3/0
                 consistency             69%
